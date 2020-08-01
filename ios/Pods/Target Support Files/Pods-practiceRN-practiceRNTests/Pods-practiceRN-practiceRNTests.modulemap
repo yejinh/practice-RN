@@ -1,0 +1,6 @@
+module Pods_practiceRN_practiceRNTests {
+  umbrella header "Pods-practiceRN-practiceRNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
